@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\nuevos\AddIn\nuevos.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\nuevos\AddIn\nuevos.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\nuevos\Source\nuevos\obj\Debug\nuevos.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\nuevos\Source\nuevos\obj\Debug\nuevos.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\nuevos\Source\nuevos\obj\Debug\nuevos.pdb

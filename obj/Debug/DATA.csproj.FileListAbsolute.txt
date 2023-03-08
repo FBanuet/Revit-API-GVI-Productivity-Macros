@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2021\Revit\AppHookup\DATA\AddIn\DATA.dll
+C:\ProgramData\Autodesk\Revit\Macros\2021\Revit\AppHookup\DATA\AddIn\DATA.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2021\Revit\AppHookup\DATA\Source\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2021\Revit\AppHookup\DATA\Source\DATA\obj\Debug\DATA.dll
+C:\ProgramData\Autodesk\Revit\Macros\2021\Revit\AppHookup\DATA\Source\DATA\obj\Debug\DATA.pdb
